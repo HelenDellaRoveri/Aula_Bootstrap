@@ -1,0 +1,19 @@
+body{
+    font: 20px Arial, sans-serif;
+    background: linear-gradient( to bottom, #8eb947, #7a9949,#475530 );
+    background-attachment: fixed;
+}
+
+.quem-somos{
+    color: white;
+}
+
+.margin{   
+    padding-bottom: 80px;    
+    padding-top: 30px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: rgb(173, 171, 171);
+}
